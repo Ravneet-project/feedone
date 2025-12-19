@@ -85,7 +85,7 @@ Copy code
 6. Import the SQL file from the `database` folder
 7. Update database connection details in your PHP configuration file:
 ```php
-$conn = mysqli_connect("localhost", "root", "", "feedone_db");
+$conn = mysqli_connect("localhost", "root", "", "feedone");
 Open browser and run:
 
 arduino
@@ -160,6 +160,7 @@ This project is suitable for academic submission, GitHub portfolio, and web deve
 
 yaml
 Copy code
+
 
 
 
